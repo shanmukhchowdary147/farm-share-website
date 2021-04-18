@@ -1,0 +1,15 @@
+{
+  "name": "farm-share",
+  "version": "1.0.0",
+  "description": "farm share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shannu & harshik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
